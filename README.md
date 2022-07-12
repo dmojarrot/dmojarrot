@@ -1,11 +1,4 @@
-### Hi there 👋, I'm Diego.
-
- - Currently studying a **B.S. in Computer Science @ ITESM**
-
-- My experiences [https://www.linkedin.com/in/dmojarrot](https://www.linkedin.com/in/dmojarrot/)
-
-
-  
+## Hi, I'm Diego 👋  
 
 <h3  align="left">Languages and Tools:</h3>
 
